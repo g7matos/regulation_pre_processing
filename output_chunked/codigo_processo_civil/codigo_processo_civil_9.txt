@@ -1,0 +1,30 @@
+Art. 195. O registro de ato processual eletrônico deverá ser feito em padrões abertos, que atenderão aos requisitos de autenticidade, integridade, temporalidade, não repúdio, conservação e, nos casos que tramitem em segredo de justiça, confidencialidade, observada a infraestrutura de chaves públicas unificada nacionalmente, nos termos da lei.Art. 196. Compete ao Conselho Nacional de Justiça e, supletivamente, aos tribunais, regulamentar a prática e a comunicação oficial de atos processuais por meio eletrônico e velar pela compatibilidade dos sistemas, disciplinando a incorporação progressiva de novos avanços tecnológicos e editando, para esse fim, os atos que forem necessários, respeitadas as normas fundamentais deste Código.Art. 197. Os tribunais divulgarão as informações constantes de seu sistema de automação em página própria na rede mundial de computadores, gozando a divulgação de presunção de veracidade e confiabilidade.
+
+Parágrafo único. Nos casos de problema técnico do sistema e de erro ou omissão do auxiliar da justiça responsável pelo registro dos andamentos, poderá ser configurada a justa causa prevista no art. 223, caput e § 1º .Art. 198. As unidades do Poder Judiciário deverão manter gratuitamente, à disposição dos interessados, equipamentos necessários à prática de atos processuais e à consulta e ao acesso ao sistema e aos documentos dele constantes.
+
+Parágrafo único. Será admitida a prática de atos por meio não eletrônico no local onde não estiverem disponibilizados os equipamentos previstos no caput .Art. 199. As unidades do Poder Judiciário assegurarão às pessoas com deficiência acessibilidade aos seus sítios na rede mundial de computadores, ao meio eletrônico de prática de atos judiciais, à comunicação eletrônica dos atos processuais e à assinatura eletrônica.
+
+Seção III
+Dos Atos das PartesArt. 200. Os atos das partes consistentes em declarações unilaterais ou bilaterais de vontade produzem imediatamente a constituição, modificação ou extinção de direitos processuais.
+
+Parágrafo único. A desistência da ação só produzirá efeitos após homologação judicial.Art. 201. As partes poderão exigir recibo de petições, arrazoados, papéis e documentos que entregarem em cartório.Art. 202. É vedado lançar nos autos cotas marginais ou interlineares, as quais o juiz mandará riscar, impondo a quem as escrever multa correspondente à metade do salário-mínimo.
+
+Seção IV
+Dos Pronunciamentos do JuizArt. 203. Os pronunciamentos do juiz consistirão em sentenças, decisões interlocutórias e despachos.
+
+§ 1º Ressalvadas as disposições expressas dos procedimentos especiais, sentença é o pronunciamento por meio do qual o juiz, com fundamento nos arts. 485 e 487 , põe fim à fase cognitiva do procedimento comum, bem como extingue a execução.
+
+§ 2º Decisão interlocutória é todo pronunciamento judicial de natureza decisória que não se enquadre no § 1º.
+
+§ 3º São despachos todos os demais pronunciamentos do juiz praticados no processo, de ofício ou a requerimento da parte.
+
+§ 4º Os atos meramente ordinatórios, como a juntada e a vista obrigatória, independem de despacho, devendo ser praticados de ofício pelo servidor e revistos pelo juiz quando necessário.Art. 204. Acórdão é o julgamento colegiado proferido pelos tribunais.Art. 205. Os despachos, as decisões, as sentenças e os acórdãos serão redigidos, datados e assinados pelos juízes.
+
+§ 1º Quando os pronunciamentos previstos no caput forem proferidos oralmente, o servidor os documentará, submetendo-os aos juízes para revisão e assinatura.
+
+§ 2º A assinatura dos juízes, em todos os graus de jurisdição, pode ser feita eletronicamente, na forma da lei.
+
+§ 3º Os despachos, as decisões interlocutórias, o dispositivo das sentenças e a ementa dos acórdãos serão publicados no Diário de Justiça Eletrônico.
+
+Seção V
+Dos Atos do Escrivão ou do Chefe de SecretariaArt. 206. Ao receber a petição inicial de processo, o escrivão ou o chefe de secretaria a autuará, mencionando o juízo, a natureza do processo, o número de seu registro, os nomes das partes e a data de seu início, e procederá do mesmo modo em relação aos volumes em formação.
